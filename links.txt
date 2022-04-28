@@ -1,0 +1,6 @@
+https://www.analyticsvidhya.com/blog/2021/10/end-to-end-predictive-analysis-on-zomato/
+
+https://www.kaggle.com/srutibanbhattacharya/zomato-rating-predictor/notebook
+
+https://thinkingneuron.com/restaurant-rating-prediction-case-study-in-python/ +++++
+
